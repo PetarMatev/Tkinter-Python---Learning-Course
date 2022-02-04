@@ -1,7 +1,7 @@
 # Tkinter-Python---Learning-Course
 Create Graphic User Interfaces in Python Tutorial
 
-⭐️Course Contents ⭐️
+⭐️ Course Contents ⭐️
 
 ⌨️ Positioning With Tkinter's Grid System
 ⌨️ Creating Buttons
